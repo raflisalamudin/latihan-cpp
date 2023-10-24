@@ -1,0 +1,5 @@
+isi input :
+instream fc 
+input
+process
+output
